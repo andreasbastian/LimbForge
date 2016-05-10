@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e-nable/LimbForge.git"
+    "url": "git+https://github.com/andreasbastian/LimbForge.git"
   },
   "author": "Edward Nable",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/e-nable/LimbForge/issues"
+    "url": "https://github.com/andreasbastian/LimbForge/issues"
   },
-  "homepage": "https://github.com/e-nable/LimbForge#readme",
+  "homepage": "https://github.com/andreasbastian/LimbForge#readme",
   "dependencies": {
     "http-server": "^0.9.0",
     "node-sass": "^3.4.2"

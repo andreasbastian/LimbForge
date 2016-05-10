@@ -5,8 +5,16 @@
             "directory": "STLs/RR/"
         },
         {
-        	"name":  "Thumbless RR (BETA)",
-        	"directory":  "STLs/TLRR/"
+        	"name":  "Phoenix V2",
+        	"directory":  "STLs/Phoenix-v2/"
+        },
+        {
+            "name":  "Osprey",
+            "directory":  "STLs/Osprey/"
+        },
+        {
+            "name":  "Thumbless RR (BETA)",
+            "directory":  "STLs/TLRR/"
         }
     ]
 }
